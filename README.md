@@ -1,5 +1,4 @@
 # epoxy-sample
-
 [Epoxy](https://github.com/airbnb/epoxy)
 
 <p align="center">
